@@ -7,7 +7,8 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image_orig": "./assets/splash.png",
+      "image": "./assets/loading_lottie.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
